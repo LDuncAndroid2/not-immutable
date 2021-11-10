@@ -5,3 +5,5 @@
 I can make a commit
 
 And another
+
+Then clone to another machine
